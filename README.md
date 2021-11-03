@@ -11,6 +11,9 @@ After every win user will see interstitial advertisement.
 - Background music
 - Sounds for: bet, spin and winning events
 - Ability to change the sum of the bet
+- App installs tracked with Appsflyer android SDK and Facebook android SDK
+- OneSignal android SDK lets us sign users up for push notifications
+- Push notifications can be sent from OneSignal dashboard or API
 
 ## Technologies & Tools
 - Java 8
@@ -19,6 +22,7 @@ After every win user will see interstitial advertisement.
 - Appsflyer android SDK 6.2.0
 - OneSignal android SDK 4.6.1
 - Android GIF drawable 1.2.22
+- Android studio
 
 ## Usage
 

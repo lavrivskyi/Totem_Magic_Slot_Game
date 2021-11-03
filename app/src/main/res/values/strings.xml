@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Totem Magic</string>
+    <string name="no_credit">You do not have enough credit</string>
+    <string name="money">$</string>
+    <string name="exit">Do you really want to quit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- AdMob -->
+    <item name="show_admob" type="bool">true</item> <!-- Show AdMob (true/false) -->
+    <item name="admob_test" type="bool">true</item> <!-- AdMob test mode (true/false) -->
+    <string name="adMob_app_id">ca-app-pub-3940256099942544~3347511713</string> <!-- AdMob App ID -->
+    <string name="adMob_interstitial">ca-app-pub-3940256099942544/1033173712</string> <!-- AdMob Interstitial ID -->
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">1920585751448453</string>
+
+    <string name="onesignal_bgimage_notif_image_align">center</string>
+    <string name="check_connection">Check Connection</string>
+</resources>

@@ -1,6 +1,6 @@
 # Totem Magic Slot Game
 <p align="center">
-<img src="https://user-images.githubusercontent.com/85931447/140210362-1b5152a7-2a73-4a32-b14e-7d517f26b23c.jpg" alt="EverTaxi">
+<img src="https://user-images.githubusercontent.com/85931447/140210362-1b5152a7-2a73-4a32-b14e-7d517f26b23c.jpg" alt="Totem Magic">
 </p>
 
 ## Description
